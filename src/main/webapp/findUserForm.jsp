@@ -19,3 +19,4 @@ limitations under the License.
     <s:textfield name="id" label="Enter ID *" required="true"/>
     <s:submit/>
 </s:form>
+<%@ taglib prefix="s" uri="/struts-tags" %>

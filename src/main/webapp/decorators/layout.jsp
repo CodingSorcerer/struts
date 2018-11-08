@@ -39,5 +39,6 @@ limitations under the License.
     </div>
     <div id='footer'>Footer</div>
 </div>
+<%@ taglib prefix="s" uri="/struts-tags" %>
 </body>
 </html>

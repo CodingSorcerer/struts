@@ -21,3 +21,4 @@ limitations under the License.
     <s:textfield name="lastName" label="Last Name *" required="true"/>
     <s:submit/>
 </s:form>
+<%@ taglib prefix="s" uri="/struts-tags" %>
